@@ -40,4 +40,4 @@ As histórias que compõem a primeira *Sprint* foram refinadas, de modo que incl
 
 ### 3.4. Protótipo de Interface
 
-Os protótipos de baixa fidelidade desenvolvidos para a primeira *Sprint* estão disponíveis na pasta **wireframes/**, na raiz deste repositório, e demonstram a interface planejada de algumas funcionalidades do aplicativo.
+Os protótipos de baixa fidelidade desenvolvidos para a primeira *Sprint* estão disponíveis na pasta **wireframe-fittraining/**, na raiz deste repositório, e demonstram a interface planejada de algumas funcionalidades do aplicativo.
