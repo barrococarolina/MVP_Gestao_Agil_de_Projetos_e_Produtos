@@ -28,7 +28,7 @@ Por fim, foi desenvolvido um Protótipo de baixa fidelidade (*wireframe*) do pro
 ### 3.1. *Lean Inception*
 
 Foi feita uma simulação das diversas etapas de *Lean Inception*, na qual buscou-se identificar os diferentes pontos de vista dos *stakeholders*. O resultado foi sintetizado em um MVP Canvas, disponível através do link no arquivo **canvas-url.txt**, na raiz deste repositório, ou diretamente no link a seguir:
- [Board *Lean Inception* do FIT Training](https://miro.com/app/board/uXjVJCLXYR0=/?share_link_id=316303249814).
+ [Board *Lean Inception* do FIT Training](https://miro.com/app/board/uXjVJCLXYR0=/?share_link_id=712738846307).
 
 ### 3.2. *Backlog* Inicial do Produto
 
