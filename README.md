@@ -16,8 +16,8 @@ Os principais stakeholders incluem a equipe Scrum de desenvolvimento, os usuári
 ### 2.2. Equipe Scrum
 
 A equipe Scrum para o desenvolvimento é formada por:
-- 1 *Scrum Master*
-- 1 *Product Owner*
+- 1 Scrum Master
+- 1 Product Owner
 - 2 Desenvolvedores (dividindo-se entre as funções de backend, tester e designer)
 
 ## 3. O Projeto Final da _Sprint_ **Gestão Ágil de Projetos e Produtos**
@@ -33,12 +33,11 @@ Foi feita uma simulação das diversas etapas de *Lean Inception*, na qual busco
 ### 3.2. *Backlog* Inicial do Produto
 
 Uma vez realizada a etapa de ideação, as funcionalidades identificadas foram transformadas em **Épicos**, para o desenvolvimento do *backlog* do produto, e estes foram desmembrados em histórias de usuário, conforme necessidades e prioridades.
-O resultado deste exercício, bem como da definição da *Definition of Ready (DoR)* e da *Defition of Done (DoD)*, estão apresentados no arquivo **product-backlog.pdf**, que está disponibilizado na raiz deste repositório.
 
 ### 3.3. Backlog da Primeira Sprint
 
-As histórias que compõem a primeira *Sprint* foram refinadas, de modo que incluíssem suas informações adicionais, critérios de aceitação e estimativa de esforço (Story Points), até que atendessem à *Definition of Ready* e pudessem ser incluídas na primeira Sprint de desenvolvimento. Este refinamento está apresentado no arquivo **sprint-backlog.pdf**, que está disponibilizado na raiz deste repositório.
+As histórias que compõem a primeira *Sprint* foram refinadas, de modo que incluíssem suas informações adicionais, critérios de aceitação e estimativa de esforço (Story Points), até que atendessem à *Definition of Ready* e pudessem ser incluídas na primeira Sprint de desenvolvimento. Este refinamento está apresentado no arquivo **backlog-FITTraining.pdf**, que está disponibilizado na raiz deste repositório.
 
 ### 3.4. Protótipo de Interface
 
-Os protótipos de baixa fidelidade desenvolvidos para a primeira *Sprint* estão disponíveis na pasta **wireframes/**, na raiz deste repositório, e demonstram a interface planejada de algumas funcionalidades do aplicativo.
+Os protótipos de baixa fidelidade desenvolvidos para a primeira *Sprint* estão disponíveis na pasta **wireframe-fittraining/**, na raiz deste repositório, e demonstram a interface planejada de algumas funcionalidades do aplicativo.
